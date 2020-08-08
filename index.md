@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+zahra jamshidi
+Bachelor of Computer Engineering - Software, Islamic Azad University of Ghods
+About Me
+Regards, Zahra Jamshidi, born and born in Tehran. Qualifications: 1- Diploma in Mathematics-Physics with a grade point average of 18.71 2- Bachelor of Computer Engineering-Software from Ghods Azad University 3- Master of Computer Engineering-Dez Software, Payame Noor University of Tehran-North : 1- HTML programming on the web from a technical and professional organization. 2- 35 and 40 hour first aid courses. 3- Supplementary rescue course. 4- Pre-hospital specialized course. 5. Pre-hospital course. Navigation.6-Specialized nutrition course.7-Specialized emergency accommodation course. (2, 3, 4, 5, 6 and 7 from the Red Crescent). 8- Emergency helper from Niloufaran Sabz Salamat Institute. - Photoshop - Journalism - Photography and editing, etc. I have been a member of the Basij since 1983, a member of the Youth and Relief and Relief Worker of the Red Crescent. h.rita70.j@gmail.com
 
-You can use the [editor on GitHub](https://github.com/zahrajamshidi/zahrajamshidi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+work experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Employee August 2009 until now
+Red Crescent - Tehran
 
-### Markdown
+Educator from April 2017 to August 2009
+Sepahan Kahar - Tehran
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Teaching mathematics and physics from September 2007 to September 2011
+Private - Tehran
+education
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zahrajamshidi/zahrajamshidi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Computer Engineering - Mehr Software 2010 to July 2014
+Bachelor - Islamic Azad University of Quds - Quds
+Qualifications: 1- Diploma in Mathematics-Physics with a grade point average of 18.71 2- Bachelor's degree in Computer Engineering-Software from Ghods Azad University 3- Graduate student of Payame Noor University of Tehran-North
