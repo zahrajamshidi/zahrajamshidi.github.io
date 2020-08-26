@@ -1,0 +1,8 @@
+1  while e[u] > 0
+2      do v ← current[u]
+3          if v = NIL
+4             then RELABEL(u)
+5                  current[u] ← head[N[u]]
+6          elseif cf(u, v) > 0 and h[u] = h[v] + 1
+7            then PUSH(u, v)
+8          else current[u] ← next-neighbor[v]
